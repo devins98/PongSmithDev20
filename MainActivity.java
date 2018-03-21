@@ -16,6 +16,8 @@ import android.widget.LinearLayout;
  * @author Andrew Nuxoll
  * @author Steven R. Vegdahl
  * @version July 2013
+ * @author Devin Smith
+ * @version March 2018
  *
  */
 public class MainActivity extends Activity implements View.OnClickListener{
